@@ -1,0 +1,36 @@
+{
+  "name": "fyp_project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.18",
+    "@mui/material": "^5.15.10",
+    "@prisma/client": "^5.12.1",
+    "@syncfusion/ej2-base": "^24.2.7",
+    "@syncfusion/ej2-buttons": "^24.2.7",
+    "@syncfusion/ej2-react-schedule": "^24.2.8",
+    "bcrypt": "^5.1.1",
+    "cookies": "^0.9.1",
+    "html2pdf.js": "^0.10.1",
+    "jose": "^5.2.4",
+    "jsonwebtoken": "^9.0.2",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-slick": "^0.30.2",
+    "swiper": "^11.0.7"
+  },
+  "devDependencies": {
+    "prisma": "^5.12.1"
+  }
+}
